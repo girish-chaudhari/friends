@@ -1,0 +1,28 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.col-lg-6 h3{
+	font-family: sans-serif;
+	font-weight: bolder;
+	word-spacing: 2px;
+	color: red;
+}
+
+.card img{
+	width: auto;
+	height: 200px;
+	
+}
+
+.card{
+	padding-right: 2px;
+}
+@media only screen and (max-width: 600px) {
+ 
+	.card{
+		margin:auto;
+	}
+ }
+
